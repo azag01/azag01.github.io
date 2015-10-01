@@ -209,7 +209,7 @@ hr {
 }
 
 #container .ghalf, #container .gthird, #container .gquarter {  
-  float: left;
+  float: left;  
   display: inline;  
   margin-left: 2.5%;  
   margin-right: 2.5%;
@@ -295,12 +295,24 @@ hr {
   height: 1em;
 }
 
-#copyRight {  
-  float: bottom, left;
+#copyRight {
 }
 
 #inlineCopy {  
   display: none;  
   clear: both;
+}
+
+#greengue {  
+  background-color: #45ccac;  
+  background-image: url(""), url(""), url("http://nebula.wsimg.com/686a0fd57ad0c1f0188a0117d54a94e5?AccessKeyId=0B99615F9862259A06FA&disposition=0&alloworigin=1");
+}
+
+#okok {  
+  font-family: "Times New Roman", Times, serif;
+}
+
+#fgrf {  
+  color: #ffcc00;
 }
 
